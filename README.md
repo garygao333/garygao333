@@ -1,4 +1,11 @@
-## Hi there 👋
+##### Hi, I'm Gary, a student at Penn interested in AI hardware and software. 
+
+##### Currently working on: 
+- ML-based classification of Archaeological Sherds
+- General Sherd Classifier with LLMs
+- Frontend Interface for Physical Learning Network (part of Neuromorphic Computing Lab)
+
+Reach out to me at garygao@seas.upenn.edu
 
 <!--
 **garygao333/garygao333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
